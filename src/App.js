@@ -23,7 +23,7 @@ const router = createBrowserRouter([
 const App = () => {
     return (
         <QueryClientProvider client={new QueryClient()}>
-            <AppBarComponent />
+            {/*<AppBarComponent />*/}
             <Container>
                 <RouterProvider router={router} />
             </Container>
