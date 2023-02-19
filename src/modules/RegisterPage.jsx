@@ -87,7 +87,7 @@ const RegisterPage = () => {
                             objectFit: 'contain',
                         }}
                     />
-                    {/*register*/}
+                    {/*register123*/}
                     <div
                         style={{
                             display: 'flex',
