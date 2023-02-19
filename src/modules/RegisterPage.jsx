@@ -87,7 +87,6 @@ const RegisterPage = () => {
                             objectFit: 'contain',
                         }}
                     />
-                    {/*register123*/}
                     <div
                         style={{
                             display: 'flex',
@@ -160,7 +159,6 @@ const RegisterPage = () => {
                                 ),
                             }}
                         />
-                        {/*password*/}
                         <TextField
                             margin="normal"
                             id="password"
